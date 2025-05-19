@@ -57,7 +57,7 @@ class _FormStep4State extends State<FormStep4> {
           children: [
             LinearProgressIndicator(
               value: 1.0,
-              backgroundColor: isDark ? AppColors.grey30 : AppColors.grey10,
+              backgroundColor: isDark ? AppColors.grey40 : AppColors.grey10,
               color: AppColors.brand70,
               minHeight: 8,
               borderRadius: BorderRadius.circular(20),

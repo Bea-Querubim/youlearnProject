@@ -19,7 +19,7 @@ class _LoginEmailState extends State<LoginEmail> {
     final email = _emailController.text.trim();
     final senha = _senhaController.text;
 
-    // Usuário "simulado" (como se estivesse salvo após cadastro)
+    // Usuário "fake"
     final userTest = User(
       nome: 'Beatriz Querubim',
       email: 'beatriz@email.com',
@@ -114,7 +114,7 @@ class _LoginEmailState extends State<LoginEmail> {
             ),
             const SizedBox(height: 12),
             ElevatedButton(
-              onPressed: _login, // agora chama a função corretamente!
+              onPressed: _login, 
               style: ElevatedButton.styleFrom(
                 backgroundColor: AppColors.brand70,
                 minimumSize: const Size(double.infinity, 50),

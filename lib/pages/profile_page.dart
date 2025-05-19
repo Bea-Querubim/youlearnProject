@@ -72,7 +72,6 @@ class ProfilePage extends StatelessWidget {
     );
   }
 
-  // Seção de título da categoria
   Widget _buildSectionLabel(String title) {
     return Padding(
       padding: const EdgeInsets.only(top: 12, bottom: 6),

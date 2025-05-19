@@ -11,7 +11,6 @@ class AppRoutes {
 
   static final routes = {
     welcome: (context) => const WelcomePage(),
-    // Adicione outras páginas depois
     form: (context) => const FormStep1(), 
     login: (context) => const LoginCellNumber(),
     loginEmail: (context) => const LoginEmail(),

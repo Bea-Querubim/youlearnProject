@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import '../../model/user.dart';
 import 'feed_page.dart';
