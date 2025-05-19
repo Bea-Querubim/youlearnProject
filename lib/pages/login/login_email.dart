@@ -91,7 +91,7 @@ class _LoginEmailState extends State<LoginEmail> {
             Align(
               alignment: Alignment.centerRight,
               child: TextButton(
-                onPressed: () {}, // esqueci a senha
+                onPressed: () {}, 
                 child: Text(
                   'Forgot password?',
                   style: AppTextStyles.body.copyWith(color: AppColors.brand70),

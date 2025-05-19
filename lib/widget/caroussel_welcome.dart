@@ -24,7 +24,6 @@ class _CarousselState extends State<CarousselWelcome> {
 
     return Column(
       children: [
-        // Carrossel de imagens
         SizedBox(
           height: 200,
           child: PageView.builder(
@@ -61,7 +60,6 @@ class _CarousselState extends State<CarousselWelcome> {
                 ),
               ),
         const SizedBox(height: 40),
-        // Indicadores de página (bolinhas)
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: List.generate(

@@ -86,7 +86,6 @@ class ProfilePage extends StatelessWidget {
     );
   }
 
-  // Linha com campo e valor
   Widget _buildProfileRow(String label, String value, context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
 
