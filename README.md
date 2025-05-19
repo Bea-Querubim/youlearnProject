@@ -1,6 +1,13 @@
 # youlearn
-A new Flutter project.
 
+Tecnologia em Análise e Desenvolvimento de Sistemas
+
+Projeto de Desenvolvimento para dispositivos móveis (BRADEMO)
+Requerido pelo Prof. Luiz Gustavo Diniz de Oliveira Véras
+
+Baseado nos Requisitos do PDF em anexo. 
+[PDF - Trabalho BRADEMO](./[PDM-2025_1]%20Projeto%20Bimestral%201%20(COM%20GRUPOS).pdf)
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
