@@ -1,0 +1,32 @@
+name: youlearn
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  carousel_slider: ^4.2.1
+  google_fonts: ^4.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/welcome/welcome_img1.png
+    - assets/images/welcome/welcome_img2.png
+    - assets/images/welcome/welcome_img3.png
+    - assets/images/news/montclair-schools-covid.png
+    - assets/images/news/port-authority-bus-terminal.png
+    - assets/images/avatars/1.png
+    - assets/images/avatars/2.png
