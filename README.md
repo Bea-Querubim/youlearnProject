@@ -7,6 +7,8 @@ Requerido pelo Prof. Luiz Gustavo Diniz de Oliveira Véras
 
 Baseado nos Requisitos do PDF em anexo. 
 [PDF - Trabalho BRADEMO](./[PDM-2025_1]%20Projeto%20Bimestral%201%20(COM%20GRUPOS).pdf)
+
+Layouts das telas utiizadas: [Nucleus Free UI Kit for Figma](https://www.uistore.design/items/nucleus-free-ui-kit-for-figma/)
  
 ## Getting Started
 
