@@ -48,6 +48,12 @@ flutter run
 Ou ctrl + f5 para o modo debug(run) (usado quando paa debug no celular via USB)
 
 ---
+# 🧪 Executando o apk-release
+
+Baixe o app-release para ver o demonstrativo do app V1
+e execute (via android studio ou emulador android ou no proprio celular [necessario permitir a instalação do apk] )
+
+---
 
 This project is a starting point for a Flutter application.
 
